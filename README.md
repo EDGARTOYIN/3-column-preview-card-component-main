@@ -5,7 +5,7 @@
 [3-column preview component challenge] (#https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
 
 # Link
-Live site URL:
+Live site URL: https://edgartoyin.github.io/3-column-preview-card-component-main/
 
 ## Built with
 * Tailwind css
